@@ -15,6 +15,7 @@ Public attributeType As String
 Public attributeMaxLength As String
 Public attributeFormat As String
 Public attributeValue As String
-Public LOV As Object
+Public LOV  Object
+Public Dupa
 
 Public attributeKeyValue As String
